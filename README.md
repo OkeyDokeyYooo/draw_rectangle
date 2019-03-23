@@ -1,7 +1,7 @@
 # draw_rectangle
 
-After we draw the circle, now we are able to draw rectangle
-but how, think about this, and down below, I will show you how to solve this piece of shit.
+After we draw the circle, we are able to draw rectangle. <br>
+How to approach this? Think about this question. I will show you how to solve this problem.
 
 ## Requirements
 
